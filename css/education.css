@@ -1,0 +1,96 @@
+.welcome3 {
+    height: 45em;
+    width: 100%;
+}
+
+.con3 h1 {
+    text-align: center;
+    color: black;
+    font-size: 3em;
+    padding-top: 80px;
+}
+
+.con4 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.texti {
+    color: black;
+    font-size: 11px;
+}
+
+.ti {
+    position: relative;
+    top: 30%;
+    left: 80%;
+}
+
+.tii {
+    position: relative;
+    top: 60%;
+    left: 80%;
+}
+
+.tiii {
+    position: relative;
+    top: 90%;
+    left: 80%;
+}
+
+.textii {
+    color: black;
+    font-size: 13px;
+}
+
+.tiv {
+    position: relative;
+    top: 29%;
+    left: -44px;
+}
+
+.tv {
+    position: relative;
+    top: 47%;
+    left: -44px;
+}
+
+.tvi {
+    position: relative;
+    top: 66%;
+    left: -44px;
+}
+
+.design2 {
+    position: relative;
+    top: 67px;
+    left: 50%;
+    width: 10px;
+    height: 400px;
+    background: #766dff;
+    border-radius: 12px;
+}
+
+.c1 {
+    position: absolute;
+    top: 15%;
+    border: 5px solid white;
+    border-radius: 50%;
+    outline: 6px solid grey;
+}
+
+.c2 {
+    position: absolute;
+    top: 50%;
+    border: 5px solid white;
+    border-radius: 50%;
+    outline: 6px solid grey;
+}
+
+.c3 {
+    position: absolute;
+    top: 85%;
+    border: 5px solid white;
+    border-radius: 50%;
+    outline: 6px solid grey;
+}

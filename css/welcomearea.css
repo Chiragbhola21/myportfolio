@@ -1,0 +1,46 @@
+.welcome {
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 50em;
+    width: 100%;
+}
+
+.about {
+    position: relative;
+    top: 20em;
+    left: 7em;
+    width: 35%;
+}
+
+.about h1 {
+    text-transform: uppercase;
+}
+
+.p-bar {
+    position: relative;
+    top: 20em;
+    left: -15em;
+    text-align: left;
+}
+
+.p-bar1 {
+    margin-top: 1em;
+    background-image: linear-gradient(90deg, #766dff 0%, #88f3ff 85%, #d3d3d3 0%);
+    background-color: lightgrey;
+    height: 0.5em;
+    width: 24em;
+    border: 0.3em solid white;
+    outline: 0.01em solid lightgray;
+    border-radius: 2em;
+}
+
+.p-bar2 {
+    margin-top: 1em;
+    background-image: linear-gradient(90deg, #766dff 0%, #88f3ff 90%, #d3d3d3 0%);
+    background-color: lightgrey;
+    height: 0.5em;
+    width: 24em;
+    border: 0.3em solid white;
+    outline: 0.01em solid lightgray;
+    border-radius: 2em;
+}
